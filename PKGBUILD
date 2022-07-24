@@ -3,7 +3,7 @@
 
 _pkgname=twidere-x
 pkgname="${_pkgname}-bin"
-pkgver=1.6.59
+pkgver=1.6.0
 pkgrel=1
 pkgdesc="Next generation of Twidere for Android"
 arch=('x86_64')
